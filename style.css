@@ -83,6 +83,16 @@ h1 {
   width: 100%;
   border-radius: 30px;
 }
-.recipes-item p {
+.gray-color {
   color: grey;
+}
+
+/* social section */
+#social {
+  justify-content: space-around;
+  box-shadow: 10px 10px 30px gray;
+  margin: 6%;
+  padding: 25px 10px;
+}
+.social-item {
 }
