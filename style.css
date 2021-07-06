@@ -89,6 +89,45 @@ body {
   padding: 25px 10px;
 }
 
+/* contact section */
+.ch2 {
+  text-align: center;
+  color: grey;
+}
+.form {
+  width: 60%;
+  padding-left: 88px;
+}
+
+.in-div {
+  padding-left: 30px;
+  padding-bottom: 12px;
+}
+input {
+  padding: 10px 20px;
+  border: 2px solid gray;
+  background-color: #bbe2c6;
+  border-radius: 10px;
+}
+.in-sub {
+  padding: 17px 0 0 78px;
+}
+
+textarea {
+  padding: 10px 20px;
+  border: 2px solid gray;
+  background-color: #bbe2c6;
+  border-radius: 10px;
+}
+
+.map {
+  width: 40%;
+  padding: 0px 5%;
+}
+.map img {
+  width: 100%;
+}
+
 /* footer section */
 .footer {
   background-color: black;
